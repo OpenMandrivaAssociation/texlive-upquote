@@ -1,11 +1,11 @@
-# revision 26059
+# revision 25895
 # category Package
 # catalog-ctan /macros/latex/contrib/upquote
-# catalog-date 2012-04-19 20:55:14 +0200
+# catalog-date 2012-04-09 12:39:20 +0200
 # catalog-license lppl1.2
-# catalog-version v1.3
+# catalog-version v1.2
 Name:		texlive-upquote
-Version:	v1.3
+Version:	v1.2
 Release:	1
 Summary:	Show "realistic" quotes in verbatim
 Group:		Publishing
@@ -58,3 +58,20 @@ does not affect \tt, \texttt, etc.
 %install
 mkdir -p %{buildroot}%{_texmfdistdir}
 cp -fpar tex doc source %{buildroot}%{_texmfdistdir}
+
+
+%changelog
+* Sat Apr 14 2012 Paulo Andrade <pcpa@mandriva.com.br> v1.2-1
++ Revision: 790842
+- Update to latest release.
+
+* Thu Jan 05 2012 Paulo Andrade <pcpa@mandriva.com.br> v1.1-2
++ Revision: 757326
+- Rebuild to reduce used resources
+
+* Sat Nov 05 2011 Paulo Andrade <pcpa@mandriva.com.br> v1.1-1
++ Revision: 719859
+- texlive-upquote
+- texlive-upquote
+- texlive-upquote
+
