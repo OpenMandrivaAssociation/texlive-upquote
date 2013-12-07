@@ -6,7 +6,7 @@
 # catalog-version v1.3
 Name:		texlive-upquote
 Version:	v1.3
-Release:	2
+Release:	3
 Summary:	Show "realistic" quotes in verbatim
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/upquote
