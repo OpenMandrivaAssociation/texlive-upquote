@@ -1,12 +1,6 @@
-# revision 26059
-# category Package
-# catalog-ctan /macros/latex/contrib/upquote
-# catalog-date 2012-04-19 20:55:14 +0200
-# catalog-license lppl1.2
-# catalog-version v1.3
 Name:		texlive-upquote
-Version:	v1.3
-Release:	9
+Version:	1.3
+Release:	1
 Summary:	Show "realistic" quotes in verbatim
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/upquote
