@@ -3,7 +3,7 @@ Version:	26059
 Release:	2
 Summary:	Show "realistic" quotes in verbatim
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/upquote
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/upquote
 License:	LPPL1.2
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/upquote.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/upquote.doc.r%{version}.tar.xz
